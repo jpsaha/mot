@@ -25,7 +25,7 @@ CONFIG = [
         "title": "IOQM",
         "category": "IOQM",
         "start": 2020,
-        "end": 2025,
+        "end": 2026,
         "exclude": set(),
     },
 ]

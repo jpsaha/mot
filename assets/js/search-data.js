@@ -842,6 +842,11 @@ ninja.data = [{
           description: "",
           section: "Ioqm",handler: () => {
               window.location.href = "/MOTP/ioqm/2025/";
+            },},{id: "ioqm-ioqm-2026-questions-solutions-discussions",
+          title: 'IOQM 2026 Questions, Solutions, Discussions',
+          description: "",
+          section: "Ioqm",handler: () => {
+              window.location.href = "/MOTP/ioqm/2026/";
             },},{id: "mopss-mopss-9th-august-2025",
           title: 'MOPSS, 9th August 2025',
           description: "MOPSS Problems, Walkthroughs, Solutions from 9th August 2025. Notes for Mathematics Olympiad, IOQM, RMO, INMO. Problem set, Solutions, Questions, Answers, Hints, Walkthroughs, Discussions, Solutions in pdf.",
